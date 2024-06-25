@@ -14,6 +14,8 @@
   * <span style="font-weight:bold">청라인:</span> `PHP` 기반인 `그누보드`라는 솔루션을 이용하여 청라 대표 커뮤니티를 목표로 주민들의 다양한 소통과 활동을 위해 웹사이트를 제작하였습니다.
   * <span style="font-weight:bold">brunch_dinch_website:</span> `Node JS`를 이용해 브런치앤딘치라는 브런치 카페의 웹사이트를 제작하였습니다.
 
+<hr>
+
 **1. Iceberg_challenge**
 * <span style="font-weight:bold;color:green">종류: </span> `2D 게임` / `1인 프로젝트`
 * <span style="font-weight:bold;color:green">언어: </span> `English`
@@ -45,6 +47,8 @@
 게임 플레이 <br>
 <img src="images/icegame.gif"/> <br><br>
 
+<hr>
+
 
 **2. tracking_pupils_app**
 * <span style="font-weight:bold;color:green">종류: </span> `Android App` / `3인 프로젝트`
@@ -68,7 +72,7 @@
 앱 데모 <br>
 <img src="images/track-pupils-demo.gif"/> <br><br>
 
-
+<hr>
 
 **3. Dungeon_Seeker**
 * <span style="font-weight:bold;color:green">종류: </span> `3D 게임` / `4인 프로젝트`
@@ -100,8 +104,7 @@
 게임 플레이 <br>
 <img src="images/dungeon.gif"/> <br><br>
 
-
-
+<hr>
 
 **4. 청라인**
 * <span style="font-weight:bold;color:green">종류: </span> `반응형 동기 웹사이트` / `1인 프로젝트`
@@ -122,6 +125,7 @@
 웹사이트 사진 <br>
 <img src="images/cheongnain1.PNG" width="450px"/><img src="images/cheongnain2.png" width="250px"/> <br><br>
 
+<hr>
 
 **5. brunch_dinch_website**
 * <span style="font-weight:bold;color:green">종류: </span> `반응형 비동기 웹사이트` / `1인 프로젝트`
