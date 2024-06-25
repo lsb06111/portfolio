@@ -1,7 +1,7 @@
 # Portfolio
 <span style="font-weight:bold">이수빈</span>, Soobin (Ben) Lee,의 포트폴리오 입니다.
 <br>
-현재 Unity로 한 게임을 제작중에 있으며, 이는 아직 업로드 되지 않음을 알려드립니다.<br>
+<!-- 현재 Unity로 한 게임을 제작중에 있으며, 이는 아직 업로드 되지 않음을 알려드립니다.<br> -->
 <br>
 
 **<span style="font-weight:bold">포트플리오 구성</span><br>**
