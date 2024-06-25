@@ -42,7 +42,7 @@ function About() {
         marginTop: '0',
         marginBottom: '0',
         fontSize: '40px',
-        display: 'inline-flex', // Display inline to align with the horizontal line
+        display: 'inline-flex', 
         marginRight: '40px',
         width: '100%',
         color: pointColourBold,
@@ -50,7 +50,7 @@ function About() {
       };
     
       const hrStyle = {
-        flexGrow: 1, // Allows the line to take up the remaining space
+        flexGrow: 1, 
         height: '2px',
         backgroundColor: pointColourBold,
         border: 'none',
@@ -62,8 +62,8 @@ function About() {
 
       const timelineStyle = {
         position: 'relative',
-        paddingLeft: '50px', // Adjust as needed for left alignment
-        paddingRight: '50px', // Adjust as needed for right alignment
+        paddingLeft: '50px', 
+        paddingRight: '50px',
       };
     
       const verticalLineStyle = {
