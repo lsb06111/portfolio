@@ -120,7 +120,7 @@
 인천 서구에 위치하고 있는 청라의 활발한 소식 공유 및 이웃 활동을 위해 커뮤니티 사이트를 개발하였습니다. 중고 거래, 실시간 채팅, 이벤트, 뉴스, 등 주민들간의 편의성에 초점을 맞춘 웹사이트 입니다. 개발 당시 `그누보드5` 라는 솔루션을 이용하여, 기본 제공되는 포맷의 레이아웃 및 디자인을 새롭게 수정하였습니다.
 
 웹사이트 사진 <br>
-<img src="images/cheongnain1.png" width="450px"/><img src="images/cheongnain2.png" width="250px"/> <br><br>
+<img src="images/cheongnain1.PNG" width="450px"/><img src="images/cheongnain2.png" width="250px"/> <br><br>
 
 
 **5. brunch_dinch_website**
