@@ -1,0 +1,79 @@
+/* Header.css */
+.nav-link:hover {
+    background-color: #463E35;
+    color: #FFF9EE !important;
+  }
+/* Mobile specific styles */
+@media screen and (max-width: 1352px) {
+
+    .inquiry-button {
+        display: none;
+    }
+    .nav-bar {
+        display: none;
+    }
+
+    .logo-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex: 1;
+        height: 33px;
+        /* margin-right:30px; */
+    }
+    .mob-navB {
+        display:flex;
+        margin-right:30px;
+        justify-content: flex-end;
+        align-items: center;
+    
+
+    }
+    .hamburger-button {
+        background:none;
+        /* font-weight: bold; */
+        font-size:25px;
+        color: white;
+        border: none;
+
+    }
+    .header {
+        height: 30px;
+
+
+    }
+    
+}
+
+/* Desktop specific styles */
+@media screen and (min-width: 1352px) {
+    .inquiry-button {
+        flex: 1;
+        display: flex;
+        justify-content: flex-end;
+
+    }
+
+    .nav-bar {
+        flex: 1;
+        text-align: center;
+        display: flex;
+
+    }
+
+    .logo-container {
+
+        flex: 1;
+        display: flex;
+        align-items:  'center';
+        justify-content: flex-start;
+        margin-left: 40px;
+        
+    }
+
+    .mob-navB {
+        display:none;
+    }
+}
+
+

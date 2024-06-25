@@ -1,0 +1,106 @@
+# https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
+
+# put *your* name and uid here
+name: Soobin Lee
+uid: u6682215
+
+declaration: >-
+  I declare that everything I have submitted in this assignment is entirely my
+  own work, with the following exceptions:
+
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external assets)
+
+assets: garbage-monster.png
+  - comment: the image of the monster
+    url: https://www.spreadshirt.ie/garbage+monster+men-s+t-shirt-D15589357
+    licence: spreadshirt
+
+
+assets: hero.png
+  - comment: the image of the character
+    url: http://www.wizmaya.com/illustration/freebie-superhero-kids-vector-illustration-pack/
+    licence: wizmaya
+
+assets: attack.png
+  - comment: the attack icon
+    url: https://www.flaticon.com/free-icon/swords_297806
+    licence: flaticon
+
+assets: exercise.png
+  - comment: the icon of the health point
+    url: https://www.flaticon.com/free-icon/exercise_863609#term=health&page=1&position=30
+    licence: flaticon
+
+assets: shield.png
+  - comment: the icon of the shield
+    url: https://www.flaticon.com/free-icon/shield_139776#term=defense&page=1&position=39
+    licence: flaticon
+
+assets: igloo.png
+  - comment: the character's room
+    url: https://clubpenguinmountains.com/2016/01/07/discussion-3d-igloos/
+    licence: clubpenguinmountains
+
+assets: iceberg.png
+  - comment: the image of the iceberg
+    url: https://pngtree.com/freepng/floating-iceberg_29737.html
+    licence: pngtree
+
+assets: background.jpg
+  - comment: the background image
+    url: https://hanslodge.com/clip-art/cartoon-snow-pictures-1.htm
+    licence: hanslodge
+
+assets: monsterDead.wav
+  - comment: the sound when the monster is killed
+    url: http://soundbible.com/1454-Pain.html
+    licence: soundbible
+
+assets: sword1.wav
+  - comment: the sound when the character hits the monster
+    url: https://www.zapsplat.com/music/sword-swing-swipe-hit-body-slash-with-head-or-limb-falling-to-ground/
+    licence: zapsplat
+
+assets: back.mp3
+  - comment: the background music
+    url: https://click.dj/mfymusic/doffbeat-run-away
+    licence: click
+
+assets: mute.png
+  - comment: the icon for mute
+    url: https://www.flaticon.com/free-icon/speaker_149144#term=sound&page=1&position=18
+    licence: flaticon
+
+assets: unmute.png
+  - comment: the icon for unmute
+    url: https://www.flaticon.com/free-icon/speaker_149140#term=sound&page=1&position=13
+    licence: flaticon
+
+assets: door.png
+  - comment: the door that lets users enter the field
+    url: https://ubisafe.org/explore/dorr-clipart-arch-door/#gal_post_2347_dorr-clipart-arch-door-2.png
+    licence: ubisafe
+
+assets: startButton.png
+  - comment: the start button
+    url: https://pngtree.com/freepng/game-interface_3466282.html
+    licence: pngtree
+
+assets: ice.png
+  - comment: the ice image for the design
+    url: https://pixabay.com/en/ice-cube-transparent-water-cold-576352/
+    licence: pixabay
+
+assets: tick.png
+  - comment: the tick button
+    url: https://www.flaticon.com/free-icon/checked_128384#term=tick&page=1&position=1
+    licence: flaticon
+ 
+assets: coins.png
+  - comment: the coin icon
+    url: https://www.flaticon.com/free-icon/coins_138292#term=coin&page=1&position=3
+    licence: flaticon
+     
+

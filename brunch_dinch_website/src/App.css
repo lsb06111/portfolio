@@ -1,0 +1,201 @@
+.App {
+  text-align: center;
+}
+
+/* mobile styles */
+@media screen and (max-width: 1352px) {
+
+  body{
+    background-color: #FFF9EE;
+    padding-top: 61px;
+  
+  }
+
+  #l_title {
+    font-size: 25px !important;
+  }
+
+  .ourBrandImage {
+    margin-top: 10% !important;
+  }
+
+  .cvacf {
+    margin-bottom: 10% !important;
+  }
+
+  .icons {
+    margin-top: 12% !important;
+  }
+
+  .obP {
+    text-align: justify !important;
+  }
+
+  .intP {
+    text-align: justify !important;
+    margin-top: 10% !important;
+    margin-bottom: 10% !important;
+
+
+  }
+
+  footer {
+    display: block !important;
+  }
+
+  .footerImg {
+    width: 25% !important;
+  }
+  
+  .footerContents {
+    text-align: center !important;
+  }
+
+  .footerContents p{
+    font-size: 11px !important;
+
+  }
+
+  .menuSliderImages {
+    width: 42% !important;
+  }
+
+  .aboutFirstDiv {
+    margin-bottom: 10% !important;
+  }
+  
+  .aboutTitle {
+    margin-top: 5% !important;
+    margin-bottom: 20% !important;
+
+  }
+
+  .faqItem {
+    width: 90% !important;
+    line-height: 40px !important;
+  }
+
+  .faqItem p {
+    font-size: 17px !important;
+  }
+  .grids {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+  
+}
+
+/* Desktop specific styles */
+@media screen and (min-width: 1352px) {
+
+  body{
+    background-color: #FFF9EE;
+    padding-top: 70px;
+  
+  }
+  
+  .intP {
+    font-weight: bold !important;
+
+  }
+
+}
+
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+.diagonalHover {
+  transition: width 0.7s ease-out, clip-path 0.4s ease-out, -webkit-clip-path 0.4s ease-out !important;
+
+}
+
+.diagonalHover:hover {
+  width: 100% !important;
+  -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%) !important;
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%) !important;
+}
+.nav-link {
+  text-decoration: none;
+  font-weight: bold;
+  color: #FFF9EE;
+  padding: 5px 10px; /* Adjust padding as needed */
+  border-radius: 5px; /* Optional: for rounded corners */
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+
+
+ul {
+  font-style: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+header {
+  background-color: #6D6052;
+  position: fixed; /* Keeps the header fixed at the top of the viewport */
+  width: 100%; /* Ensures the header spans the full width of the viewport */
+  top: 0; /* Aligns the header to the top of the viewport */
+  left: 0; /* Aligns the header to the left of the viewport */
+  z-index: 1000; 
+  padding: 15px;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* 2 columns with equal width */
+  grid-template-rows: auto; /* Let rows size according to content */
+  /* width: 100%; */
+  grid-gap: 10px; /* Optional gap between grid items */
+
+  padding: 7% 0 0 0;
+}
+
+.grid-item {
+  background-color: lightgray; /* Just for visibility */
+  width: 100%;
+  padding-top: 100%; /* Aspect ratio trick */
+  position: relative; /* For inner content positioning */
+}
+
+.grid-content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
