@@ -130,16 +130,16 @@
 **5. brunch_dinch_website**
 * <span style="font-weight:bold;color:green">종류: </span> `반응형 비동기 웹사이트` / `1인 프로젝트`
 * <span style="font-weight:bold;color:green">언어: </span> `한국어`
-* <span style="font-weight:bold;color:green">개발 환경: </span> `Node.js`
+* <span style="font-weight:bold;color:green">개발 환경: </span> `React`
 * <span style="font-weight:bold;color:green">개발 언어: </span> `JavaScript`, `HTML`, `CSS` <br>
 * <span style="font-weight:bold;color:green">웹사이트: </span> http://www.bdinch.com <br>
 
 <span style="font-weight:bold;color:orange">프로젝트 설명: </span><br>
-이전에는 웹사이트 개발 공부를 할 때 코드 수정 후 항상 저장 후 새로고침을 해야만 웹사이트의 변경사항을 확인할 수 있었습니다. 단순히 저장 만 하면 바로바로 변경사항이 보일 수 있는 방법은 없을까 하다가 Node.js에 대해서 정보를 접했고, 상당 수의 웹사이트도 이로 개발된 경우가 많다는 것을 알고 무작정 개발을 시작했습니다. 결과적으로 비동기, 동기 웹사이트 개발을 모두 경험하여 이의 차이점, 장단점을 확실하게 학습할 수 있는 계기가 되었습니다.
+이전에는 웹사이트 개발 공부를 할 때 코드 수정 후 항상 저장 후 새로고침을 해야만 웹사이트의 변경사항을 확인할 수 있었습니다. 단순히 저장 만 하면 바로바로 변경사항이 보일 수 있는 방법은 없을까 하다가 리액트에 대해서 정보를 접했고, 상당 수의 웹사이트도 이로 개발된 경우가 많다는 것을 알고 무작정 개발을 시작했습니다. 결과적으로 비동기, 동기 웹사이트 개발을 모두 경험하여 이의 차이점, 장단점을 확실하게 학습할 수 있는 계기가 되었습니다.
 
 
 <span style="font-weight:bold;color:orange">웹사이트 설명: </span><br>
-제 가족의 브런치 카페, 브런치 앤 딘치 개업으로 소개 및 메뉴들을 담은 웹사이트를 Node.js의 환경에서 개발하였습니다.
+제 가족의 브런치 카페, 브런치 앤 딘치 개업으로 소개 및 메뉴들을 담은 웹사이트를 리액트의 환경에서 개발하였습니다.
 
 웹사이트 사진 <br>
 <img src="images/bdinch1.jpg" width="350px"/><img src="images/bdinch2.jpg" width="186.3px"/> <br><br>
