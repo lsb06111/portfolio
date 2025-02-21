@@ -111,7 +111,7 @@
 * <span style="font-weight:bold;color:green">언어: </span> `한국어`
 * <span style="font-weight:bold;color:green">솔루션: </span> `그누보드5`
 * <span style="font-weight:bold;color:green">개발 언어: </span> `PHP`, `HTML`, `CSS`, `JS`, `MySQL` <br>
-
+* <span style="font-weight:bold;color:green">웹사이트: </span> https://dongnaein.com <br>
 <span style="font-weight:bold;color:orange">프로젝트 설명: </span><br>
 저만의 프로젝트를 개발해보고 싶어 무작정 개발했던 커뮤니티 프로젝트 이며, 휴학에서 복학하기전 몇 달간 실제 운영을 했던 웹사이트 입니다.
 
