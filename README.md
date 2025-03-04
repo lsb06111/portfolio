@@ -16,36 +16,25 @@
 
 <hr>
 
-**1. Iceberg_challenge**
-* <span style="font-weight:bold;color:green">종류: </span> `2D 게임` / `1인 프로젝트`
-* <span style="font-weight:bold;color:green">언어: </span> `English`
-* <span style="font-weight:bold;color:green">개발 언어: </span> `Javascript P5` <br>
+
+**1. 청라인**
+* <span style="font-weight:bold;color:green">종류: </span> `반응형 동기 웹사이트` / `1인 프로젝트`
+* <span style="font-weight:bold;color:green">언어: </span> `한국어`
+* <span style="font-weight:bold;color:green">솔루션: </span> `그누보드5`
+* <span style="font-weight:bold;color:green">개발 언어: </span> `PHP`, `HTML`, `CSS`, `JS`, `MySQL` <br>
 
 <span style="font-weight:bold;color:orange">프로젝트 설명: </span><br>
-이 프로젝트는 게임을 처음으로 개발한 프로젝트 입니다. Javascript와 P5.js 라이브러리를 이용하여 2D 게임을 구현하였습니다. 매 프레임마다 호출되는 Draw() 함수의 사용을 통해 게임의 기본 메커니즘을 학습하였습니다. 게임의 기획부터 디자인, 개발까지 모든 과정을 직접 수행하여 개발 역량을 키웠습니다. 주요 개발 사항은 다음과 같습니다:
+저만의 프로젝트를 개발해보고 싶어 무작정 개발했던 커뮤니티 프로젝트 이며, 휴학에서 복학하기전 몇 달간 실제 운영을 했던 웹사이트 입니다.
 
-* **게임 메커닉 구현:** 플레이어의 이동, 공격, 업그레이드 시스템 등 게임의 핵심 메커니즘을 Javascript를 사용하여 구현하였습니다.
-* **지구 온난화 시각화:** 빙하가 매 초 줄어드는 시각적 효과를 통해 지구 온난화 문제를 게임 내에서 효과적으로 전달하였습니다.
-* **UI 및 UX 디자인:** 플레이어의 상호작용을 극대화하기 위해 직관적인 UI와 사용자 경험을 설계하였습니다.
-* **게임 밸런싱:** 게임의 난이도와 업그레이드 시스템을 조정하여 플레이어가 도전과 재미를 느낄 수 있도록 하였습니다.
+처음으로 `MySQL`를 이용해 서버에 저장을 하고 `Session`을 이용해 로그인 및 다양한 정보를 일시적으로 저장해, 자동로그인 등 회원의 편의성을 향상시켰습니다. `Post` 와 `Get`의 이용을 확실하게 학습하고 이용할 수 있었던 계기가 되었습니다. `PHP`를 이용해 처음부터 개발하는 것 보다 `PHP`로 이미 만들어진 솔루션을 제 뜻대로 수정하고 뜯어 고치며 `PHP`에 대해서 깊게 학습할 수 있는 계기가 되어 자신감이 생겼습니다.
 
-처음으로 만든 게임인 만큼 부족함이 많지만 실제 게임 개발의 전반적인 메커니즘을 학습할 수 있는 기초적인 계기가 되었습니다.
 
-<span style="font-weight:bold;color:orange">게임 설명: </span><br>
-이 게임의 컨셉은 지구 온난화의 시각화를 바탕으로 만들어 게임입니다. 빙하가 매 초 줄어드는 것을 시각적으로 표현되어 플레이어의 흥미를 자극 시킵니다. 쓰레기의 효율적인 처리를 위해 능력치를 업그레이드를 할 수 있지만, 골드를 사용하여 업그레이드를 하지 않는 일반 업그레이드는 횟수만큼 빙하가 줄어들게 됩니다. 이는 지구 자원을 통한 업그레이드로 표현되는 한 장치입니다.
 
-* W, A, S, D 로 움직이며, `spacebar`의 연타로 쓰레기를 처리 가능합니다.
-* 시작하자마자 스폰되는 화면 왼쪽의 방 (이글루)에서는 빙하가 가라앉지 않고 그 안에 있는 연습용 쓰레기를 통해 공격력의 테스트가 가능합니다.
-* 각 문을 통해 빙하와 이글루를 게임 플레이중 어느때나 이동 가능합니다.
-* 능력치 강화는 왼쪽 방 (이글루)에서만 가능합니다.
-* `+` 버튼을 사용하면 골드 소모 없이 능력치의 강화가 가능하지만 그 대신 빙하가 줄어듭니다.
-* `++` 버튼을 사용하면 빙하가 줄어들지는 않지만 골드 8개가 소모됩니다.
-* 한개의 쓰레기를 처리하면 2 골드를 얻게 됩니다.
-* 매초 빙하는 감소하게 됩니다.
-* 쓰레기를 일정량 처리하게 되면 빙하가 다시 어느정도 복구되어 다시 올라옵니다.
+<span style="font-weight:bold;color:orange">웹사이트 설명: </span><br>
+인천 서구에 위치하고 있는 청라의 활발한 소식 공유 및 이웃 활동을 위해 커뮤니티 사이트를 개발하였습니다. 중고 거래, 실시간 채팅, 이벤트, 뉴스, 등 주민들간의 편의성에 초점을 맞춘 웹사이트 입니다. 개발 당시 `그누보드5` 라는 솔루션을 이용하여, 기본 제공되는 포맷의 레이아웃 및 디자인을 새롭게 수정하였습니다.
 
-게임 플레이 <br>
-<img src="images/icegame.gif"/> <br><br>
+웹사이트 사진 <br>
+<img src="images/cheongnain1.PNG" width="450px"/><img src="images/cheongnain2.png" width="250px"/> <br><br>
 
 <hr>
 
@@ -106,28 +95,7 @@
 
 <hr>
 
-**4. 청라인**
-* <span style="font-weight:bold;color:green">종류: </span> `반응형 동기 웹사이트` / `1인 프로젝트`
-* <span style="font-weight:bold;color:green">언어: </span> `한국어`
-* <span style="font-weight:bold;color:green">솔루션: </span> `그누보드5`
-* <span style="font-weight:bold;color:green">개발 언어: </span> `PHP`, `HTML`, `CSS`, `JS`, `MySQL` <br>
-* <span style="font-weight:bold;color:green">웹사이트: </span> https://dongnaein.com <br>
-<span style="font-weight:bold;color:orange">프로젝트 설명: </span><br>
-저만의 프로젝트를 개발해보고 싶어 무작정 개발했던 커뮤니티 프로젝트 이며, 휴학에서 복학하기전 몇 달간 실제 운영을 했던 웹사이트 입니다.
-
-처음으로 `MySQL`를 이용해 서버에 저장을 하고 `Session`을 이용해 로그인 및 다양한 정보를 일시적으로 저장해, 자동로그인 등 회원의 편의성을 향상시켰습니다. `Post` 와 `Get`의 이용을 확실하게 학습하고 이용할 수 있었던 계기가 되었습니다. `PHP`를 이용해 처음부터 개발하는 것 보다 `PHP`로 이미 만들어진 솔루션을 제 뜻대로 수정하고 뜯어 고치며 `PHP`에 대해서 깊게 학습할 수 있는 계기가 되어 자신감이 생겼습니다.
-
-
-
-<span style="font-weight:bold;color:orange">웹사이트 설명: </span><br>
-인천 서구에 위치하고 있는 청라의 활발한 소식 공유 및 이웃 활동을 위해 커뮤니티 사이트를 개발하였습니다. 중고 거래, 실시간 채팅, 이벤트, 뉴스, 등 주민들간의 편의성에 초점을 맞춘 웹사이트 입니다. 개발 당시 `그누보드5` 라는 솔루션을 이용하여, 기본 제공되는 포맷의 레이아웃 및 디자인을 새롭게 수정하였습니다.
-
-웹사이트 사진 <br>
-<img src="images/cheongnain1.PNG" width="450px"/><img src="images/cheongnain2.png" width="250px"/> <br><br>
-
-<hr>
-
-**5. brunch_dinch_website**
+**4. brunch_dinch_website**
 * <span style="font-weight:bold;color:green">종류: </span> `반응형 비동기 웹사이트` / `1인 프로젝트`
 * <span style="font-weight:bold;color:green">언어: </span> `한국어`
 * <span style="font-weight:bold;color:green">개발 환경: </span> `React`
@@ -143,3 +111,36 @@
 
 웹사이트 사진 <br>
 <img src="images/bdinch1.jpg" width="350px"/><img src="images/bdinch2.jpg" width="186.3px"/> <br><br>
+
+<hr>
+
+**5. Iceberg_challenge**
+* <span style="font-weight:bold;color:green">종류: </span> `2D 게임` / `1인 프로젝트`
+* <span style="font-weight:bold;color:green">언어: </span> `English`
+* <span style="font-weight:bold;color:green">개발 언어: </span> `Javascript P5` <br>
+
+<span style="font-weight:bold;color:orange">프로젝트 설명: </span><br>
+이 프로젝트는 게임을 처음으로 개발한 프로젝트 입니다. Javascript와 P5.js 라이브러리를 이용하여 2D 게임을 구현하였습니다. 매 프레임마다 호출되는 Draw() 함수의 사용을 통해 게임의 기본 메커니즘을 학습하였습니다. 게임의 기획부터 디자인, 개발까지 모든 과정을 직접 수행하여 개발 역량을 키웠습니다. 주요 개발 사항은 다음과 같습니다:
+
+* **게임 메커닉 구현:** 플레이어의 이동, 공격, 업그레이드 시스템 등 게임의 핵심 메커니즘을 Javascript를 사용하여 구현하였습니다.
+* **지구 온난화 시각화:** 빙하가 매 초 줄어드는 시각적 효과를 통해 지구 온난화 문제를 게임 내에서 효과적으로 전달하였습니다.
+* **UI 및 UX 디자인:** 플레이어의 상호작용을 극대화하기 위해 직관적인 UI와 사용자 경험을 설계하였습니다.
+* **게임 밸런싱:** 게임의 난이도와 업그레이드 시스템을 조정하여 플레이어가 도전과 재미를 느낄 수 있도록 하였습니다.
+
+처음으로 만든 게임인 만큼 부족함이 많지만 실제 게임 개발의 전반적인 메커니즘을 학습할 수 있는 기초적인 계기가 되었습니다.
+
+<span style="font-weight:bold;color:orange">게임 설명: </span><br>
+이 게임의 컨셉은 지구 온난화의 시각화를 바탕으로 만들어 게임입니다. 빙하가 매 초 줄어드는 것을 시각적으로 표현되어 플레이어의 흥미를 자극 시킵니다. 쓰레기의 효율적인 처리를 위해 능력치를 업그레이드를 할 수 있지만, 골드를 사용하여 업그레이드를 하지 않는 일반 업그레이드는 횟수만큼 빙하가 줄어들게 됩니다. 이는 지구 자원을 통한 업그레이드로 표현되는 한 장치입니다.
+
+* W, A, S, D 로 움직이며, `spacebar`의 연타로 쓰레기를 처리 가능합니다.
+* 시작하자마자 스폰되는 화면 왼쪽의 방 (이글루)에서는 빙하가 가라앉지 않고 그 안에 있는 연습용 쓰레기를 통해 공격력의 테스트가 가능합니다.
+* 각 문을 통해 빙하와 이글루를 게임 플레이중 어느때나 이동 가능합니다.
+* 능력치 강화는 왼쪽 방 (이글루)에서만 가능합니다.
+* `+` 버튼을 사용하면 골드 소모 없이 능력치의 강화가 가능하지만 그 대신 빙하가 줄어듭니다.
+* `++` 버튼을 사용하면 빙하가 줄어들지는 않지만 골드 8개가 소모됩니다.
+* 한개의 쓰레기를 처리하면 2 골드를 얻게 됩니다.
+* 매초 빙하는 감소하게 됩니다.
+* 쓰레기를 일정량 처리하게 되면 빙하가 다시 어느정도 복구되어 다시 올라옵니다.
+
+게임 플레이 <br>
+<img src="images/icegame.gif"/> <br><br>
