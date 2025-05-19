@@ -16,54 +16,7 @@
 
 <hr>
 
-
-**1. 청라인**
-* <span style="font-weight:bold;color:green">종류: </span> `반응형 동기 웹사이트` / `1인 프로젝트`
-* <span style="font-weight:bold;color:green">언어: </span> `한국어`
-* <span style="font-weight:bold;color:green">솔루션: </span> `그누보드5`
-* <span style="font-weight:bold;color:green">개발 언어: </span> `PHP`, `HTML`, `CSS`, `JS`, `MySQL` <br>
-
-<span style="font-weight:bold;color:orange">프로젝트 설명: </span><br>
-저만의 프로젝트를 개발해보고 싶어 무작정 개발했던 커뮤니티 프로젝트 이며, 휴학에서 복학하기전 몇 달간 실제 운영을 했던 웹사이트 입니다.
-
-처음으로 `MySQL`를 이용해 서버에 저장을 하고 `Session`을 이용해 로그인 및 다양한 정보를 일시적으로 저장해, 자동로그인 등 회원의 편의성을 향상시켰습니다. `Post` 와 `Get`의 이용을 확실하게 학습하고 이용할 수 있었던 계기가 되었습니다. `PHP`를 이용해 처음부터 개발하는 것 보다 `PHP`로 이미 만들어진 솔루션을 제 뜻대로 수정하고 뜯어 고치며 `PHP`에 대해서 깊게 학습할 수 있는 계기가 되어 자신감이 생겼습니다.
-
-
-
-<span style="font-weight:bold;color:orange">웹사이트 설명: </span><br>
-인천 서구에 위치하고 있는 청라의 활발한 소식 공유 및 이웃 활동을 위해 커뮤니티 사이트를 개발하였습니다. 중고 거래, 실시간 채팅, 이벤트, 뉴스, 등 주민들간의 편의성에 초점을 맞춘 웹사이트 입니다. 개발 당시 `그누보드5` 라는 솔루션을 이용하여, 기본 제공되는 포맷의 레이아웃 및 디자인을 새롭게 수정하였습니다.
-
-웹사이트 사진 <br>
-<img src="images/cheongnain1.PNG" width="450px"/><img src="images/cheongnain2.png" width="250px"/> <br><br>
-
-<hr>
-
-
-**2. tracking_pupils_app**
-* <span style="font-weight:bold;color:green">종류: </span> `Android App` / `3인 프로젝트`
-* <span style="font-weight:bold;color:green">협업사: </span> `PwC Australia`
-* <span style="font-weight:bold;color:green">언어: </span> `English`
-* <span style="font-weight:bold;color:green">개발 환경: </span> `Android Studio`
-* <span style="font-weight:bold;color:green">개발 언어: </span> `Java`, `Python` <br>
-
-<span style="font-weight:bold;color:orange">프로젝트 설명: </span><br>
-이 프로젝트는 호주의 PwC Australia 라는 회사와 연계 협업으로 1년간 진행한 프로젝트로, 동공 추적을 바탕으로 물리적 상호작용 없이 앱을 이용하는데 목적을 두어 개발한 앱입니다. 대부분의 개발을 `Java`로 개발하다가 처음으로 python의 external library를 접목시켜 진행된 프로젝트 입니다. 기여 사항은 다음과 같습니다:
-
-* **Main Developer:** 앱의 전반적인 인터페이스를 `Android Studio`에서 `Java` 언어를 이용해 개발하였습니다. 또한, Pupil Tracking의 정확도를 개선하기 위해 알고리즘을 반복적으로 수정해 나가며 향상시켰습니다.
-* **Product Owner:** 팀의 속도를 항상 이해하며 `back log` 항목의 `release`를 지속적으로 체크하며 예측했습니다.
-
-
-처음으로 다른 회사와 연계 협업으로 당사의 Client와 프로젝트를 진행했습니다. 그동안은 개발의 퀄리티나 작동에만 신경을 썼었지만, Client와 의견을 정기적으로 소통을 통해 나눠가며 프로젝트의 방향성을 잡고 진행했던 인상깊었던 프로젝트입니다.
-
-<span style="font-weight:bold;color:orange">앱 설명: </span><br>
-`Python`의 `OpenCV Library`를 이용하여 `Face Recognition`을 바탕으로 `동공(pupils)`을 트래킹 하는 알고리즘을 개발하여 파킨슨 병과 같이 몸을 자유자재로 움직일 수 없어 제대로 된 의사소통이 불가능한 사람들을 위해 앱을 개발하였습니다.
-
-앱 데모 <br>
-<img src="images/track-pupils-demo.gif"/> <br><br>
-
-<hr>
-
-**3. Dungeon_Seeker**
+**1. Dungeon_Seeker**
 * <span style="font-weight:bold;color:green">종류: </span> `3D 게임` / `4인 프로젝트`
 * <span style="font-weight:bold;color:green">역할: </span> `Main Developer`, `Game Environment & Logic Developer`
 * <span style="font-weight:bold;color:green">언어: </span> `English`
@@ -94,6 +47,51 @@
 <img src="images/dungeon.gif"/> <br><br>
 
 <hr>
+
+**2. tracking_pupils_app**
+* <span style="font-weight:bold;color:green">종류: </span> `Android App` / `3인 프로젝트`
+* <span style="font-weight:bold;color:green">협업사: </span> `PwC Australia`
+* <span style="font-weight:bold;color:green">언어: </span> `English`
+* <span style="font-weight:bold;color:green">개발 환경: </span> `Android Studio`
+* <span style="font-weight:bold;color:green">개발 언어: </span> `Java`, `Python` <br>
+
+<span style="font-weight:bold;color:orange">프로젝트 설명: </span><br>
+이 프로젝트는 호주의 PwC Australia 라는 회사와 연계 협업으로 1년간 진행한 프로젝트로, 동공 추적을 바탕으로 물리적 상호작용 없이 앱을 이용하는데 목적을 두어 개발한 앱입니다. 대부분의 개발을 `Java`로 개발하다가 처음으로 python의 external library를 접목시켜 진행된 프로젝트 입니다. 기여 사항은 다음과 같습니다:
+
+* **Main Developer:** 앱의 전반적인 인터페이스를 `Android Studio`에서 `Java` 언어를 이용해 개발하였습니다. 또한, Pupil Tracking의 정확도를 개선하기 위해 알고리즘을 반복적으로 수정해 나가며 향상시켰습니다.
+* **Product Owner:** 팀의 속도를 항상 이해하며 `back log` 항목의 `release`를 지속적으로 체크하며 예측했습니다.
+
+
+처음으로 다른 회사와 연계 협업으로 당사의 Client와 프로젝트를 진행했습니다. 그동안은 개발의 퀄리티나 작동에만 신경을 썼었지만, Client와 의견을 정기적으로 소통을 통해 나눠가며 프로젝트의 방향성을 잡고 진행했던 인상깊었던 프로젝트입니다.
+
+<span style="font-weight:bold;color:orange">앱 설명: </span><br>
+`Python`의 `OpenCV Library`를 이용하여 `Face Recognition`을 바탕으로 `동공(pupils)`을 트래킹 하는 알고리즘을 개발하여 파킨슨 병과 같이 몸을 자유자재로 움직일 수 없어 제대로 된 의사소통이 불가능한 사람들을 위해 앱을 개발하였습니다.
+
+앱 데모 <br>
+<img src="images/track-pupils-demo.gif"/> <br><br>
+
+<hr>
+
+**3. 청라인**
+* <span style="font-weight:bold;color:green">종류: </span> `반응형 동기 웹사이트` / `1인 프로젝트`
+* <span style="font-weight:bold;color:green">언어: </span> `한국어`
+* <span style="font-weight:bold;color:green">솔루션: </span> `그누보드5`
+* <span style="font-weight:bold;color:green">개발 언어: </span> `PHP`, `HTML`, `CSS`, `JS`, `MySQL` <br>
+
+<span style="font-weight:bold;color:orange">프로젝트 설명: </span><br>
+저만의 프로젝트를 개발해보고 싶어 무작정 개발했던 커뮤니티 프로젝트 이며, 휴학에서 복학하기전 몇 달간 실제 운영을 했던 웹사이트 입니다.
+
+처음으로 `MySQL`를 이용해 서버에 저장을 하고 `Session`을 이용해 로그인 및 다양한 정보를 일시적으로 저장해, 자동로그인 등 회원의 편의성을 향상시켰습니다. `Post` 와 `Get`의 이용을 확실하게 학습하고 이용할 수 있었던 계기가 되었습니다. `PHP`를 이용해 처음부터 개발하는 것 보다 `PHP`로 이미 만들어진 솔루션을 제 뜻대로 수정하고 뜯어 고치며 `PHP`에 대해서 깊게 학습할 수 있는 계기가 되어 자신감이 생겼습니다.
+
+
+<span style="font-weight:bold;color:orange">웹사이트 설명: </span><br>
+인천 서구에 위치하고 있는 청라의 활발한 소식 공유 및 이웃 활동을 위해 커뮤니티 사이트를 개발하였습니다. 중고 거래, 실시간 채팅, 이벤트, 뉴스, 등 주민들간의 편의성에 초점을 맞춘 웹사이트 입니다. 개발 당시 `그누보드5` 라는 솔루션을 이용하여, 기본 제공되는 포맷의 레이아웃 및 디자인을 새롭게 수정하였습니다.
+
+웹사이트 사진 <br>
+<img src="images/cheongnain1.PNG" width="450px"/><img src="images/cheongnain2.png" width="250px"/> <br><br>
+
+<hr>
+
 
 **4. brunch_dinch_website**
 * <span style="font-weight:bold;color:green">종류: </span> `반응형 비동기 웹사이트` / `1인 프로젝트`
