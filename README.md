@@ -56,7 +56,7 @@
 * <span style="font-weight:bold;color:green">개발 언어: </span> `Java`, `Python` <br>
 
 <span style="font-weight:bold;color:orange">프로젝트 설명: </span><br>
-이 프로젝트는 호주의 PwC Australia 라는 회사와 연계 협업으로 1년간 진행한 프로젝트로, 동공 추적을 바탕으로 물리적 상호작용 없이 앱을 이용하는데 목적을 두어 개발한 앱입니다. 대부분의 개발을 `Java`로 개발하다가 처음으로 python의 external library를 접목시켜 진행된 프로젝트 입니다. 기여 사항은 다음과 같습니다:
+이 프로젝트는 호주의 PwC Australia 라는 회사와 연계 협업으로 1년간 진행한 프로젝트로, 동공 추적을 바탕으로 물리적 상호작용 없이 앱을 이용하는데 목적을 두어 개발한 앱입니다. `OpenCV Library`를 이용하여 recognition을 처리하며 시각적 데이터를 활용한 프로젝트 입니다. 기여 사항은 다음과 같습니다:
 
 * **Main Developer:** 앱의 전반적인 인터페이스를 `Android Studio`에서 `Java` 언어를 이용해 개발하였습니다. 또한, Pupil Tracking의 정확도를 개선하기 위해 알고리즘을 반복적으로 수정해 나가며 향상시켰습니다.
 * **Product Owner:** 팀의 속도를 항상 이해하며 `back log` 항목의 `release`를 지속적으로 체크하며 예측했습니다.
